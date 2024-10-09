@@ -1,1 +1,1 @@
-# sns-code
+# sns
